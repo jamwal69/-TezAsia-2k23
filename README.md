@@ -26,6 +26,7 @@ Your Deployed Smart Contract's Link
 If your project is deployed, then include the Live Project Link
 Your PPT link (Make sure to upload the PPT in this folder along with the project)
 Your Team Members' Info.
+
 Step - 5: Submitting the code: Making a Pull request
 
 After you have pushed your files and code base, create an issue in the main repository as: Issue: Team Name: Submission Issue description should include a small glimpse of your project, what is it doing, and how are you trying to achieve it. After the issue is assigned, Make a Pull Request from your forked repo to this repo's main branch while mentioning issue no. assigned to it.
